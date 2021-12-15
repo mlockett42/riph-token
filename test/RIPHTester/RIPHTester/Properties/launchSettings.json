@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "RIPHTester": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "RIPHTester__SmartContractAbiPath": "C:\\code\\harambe-protocol\\riph_token\\build\\contracts\\RIPHToken.json",
+        "RIPHTester__SmartContractAddress": "0x53Efec786Bc7597FA76De243d39F477Fa1dac26B"
+      }
+    }
+  }
+}

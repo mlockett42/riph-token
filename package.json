@@ -1,0 +1,17 @@
+{
+  "name": "riph_token",
+  "version": "1.0.0",
+  "description": "Useful tutorial\r https://medium.com/my-blockchain-development-daily-journey/interfacing-net-and-ethereum-blockchain-smart-contracts-with-nethereum-2fa3729ac933\r Also useful\r https://medium.com/coinmonks/create-and-deploy-a-defi-app-to-ethereum-a02bb680aa78",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "@truffle/hdwallet-provider": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
